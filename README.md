@@ -44,6 +44,6 @@ A simple and interactive flashcard quiz app built with HTML, CSS, and JavaScript
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]  
+Made with ❤️ by Karthik  
 [GitHub](https://github.com/KRANOOTICS)
 
